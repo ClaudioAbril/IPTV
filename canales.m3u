@@ -5,6 +5,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:22,TN
+#EXTVLCOPT:network-caching=5000
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
+
+#EXTINF:30,Canal 26 (1080p)
+#EXTVLCOPT:network-caching=5000
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
