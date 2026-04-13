@@ -8,7 +8,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN (720p)
 #EXTVLCOPT:network-caching=5000
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p)
 #EXTVLCOPT:ssl-verify=0
@@ -247,34 +247,6 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 # --- CA ---
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature 4K (2160p)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-
-# --- CN ---
-#EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn@SD" tvg-logo="" group-title="",Shenzhen Satellite TV (2160p)
-https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-
-# --- CO ---
-#EXTINF:-1 tvg-id="TeleVid.co@SD" tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religious" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Vid (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-
-# --- CR ---
-#EXTINF:-1 tvg-id="SOYPlanchaTV.cr@SD" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Music",SOY Plancha TV (720p)
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-
-# --- DE ---
-#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Music",Lausitzwelle (1080p)
-https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision TV (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-id="QVCZwei.de@SD" tvg-logo="https://i.imgur.com/f94kPed.png" group-title="Shop",QVC 2 Germany (540p)
-https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
-#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="",RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-
-# --- DO ---
-#EXTINF:-1 tvg-id="LaSultanadelEsteTV.do@SD" tvg-logo="https://i.imgur.com/UNiyOvd.png" group-title="General",La Sultana del Este TV (720p)
-https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 
 # --- EC ---
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec@SD" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Guayaquil (360p)
@@ -454,3 +426,291 @@ https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="General",AlbUK TV (1080p)
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
+########## PREMIUM ##########
+
+#EXTINF:-1 group-title="Premium",A&E Mundo HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",AXN HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
+
+#EXTINF:416 group-title="Premium",Cinecanal
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Premium",CineCanal HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Cine Dinamita
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903394359-Imagen.png", Cine Latino
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/index.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099996739-Imagen.png", De Pelicula
+
+#EXTINF:-1 group-title="Premium",Euro Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/index.m3u8
+
+#EXTINF:-1group-title="Premium",Fox HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",FX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",FX HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
+
+#EXTINF:434 group-title="Premium",FOX Cinema
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+
+#EXTINF:435 group-title="Premium",Fox Action
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
+
+#EXTINF:440 group-title="Premium",FOX Movies
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
+
+#EXTINF:442 group-title="Premium",FOX Classics
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Fox Life
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Film Zone HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Golden
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
+
+#EXTINF:450 group-title="Premium",HBO
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Premium", HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:456 group-title="Premium",HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Premium",HBO Signature
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",I-Sat
+
+#EXTINF:470 group-title="Premium",MAX
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
+
+#EXTINF:476 group-title="Premium",MAX Prime
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",MultiPremier
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+
+#EXTINF:413 group-title="Premium",Paramount Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Premium",Space HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Sony HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:420 group-title="Premium",Studio Universal
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Sundance
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
+
+#EXTINF:421 group-title="Premium",TCM
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",TNT HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",TNT Series
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Universal Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Premium",Warner
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
+
+########## DOCUMENTALES ##########
+
+#EXTINF:-1 group-title="Documentales",Animal Planet HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Animal Planet HD Op.2
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
+
+#EXTINF:230 group-title="Documentales",Comedy Central
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",E!
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(E)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Documentales",MEGA (España-Perdon XD)
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8 
+
+#EXTINF:-1 group-title="Documentales",La Mega Mundial
+
+
+#EXTINF:-1 group-title="Documentales",Discovery Channel
+
+#EXTINF:-1 group-title="Documentales",Discovery Civilization
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Home & Healt
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery ID
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery TLC
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Turbo
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Discovery Science
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Channel
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",History Channel Op.2
+
+
+#EXTINF:-1 group-title="Documentales",History Channel HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Documentales",Nat Geo
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
+
+########## INFANTILES ##########
+
+#EXTINF:-1 group-title="Infantiles", Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+
+#EXTINF:-1 group-title="Infantiles", Cartoon Network
+
+#EXTINF:323 group-title="Infantiles",Boomerang
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney XD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",Discovery Kids
+
+
+#EXTINF:-1 group-title="Infantiles",Nickelodeon
+
+
+#EXTINF:-1 group-title="Infantiles",Nickelodeon HD
+
+#EXTINF:-1 group-title="Infantiles",Tooncast
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/index.m3u8
+
+########## Deportes ##########
+
+#EXTINF:-1 group-title="Deportes",Olympic Channel / NBC
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804922110409900032/6_o7Xf13_400x400.jpg" group-title="Deportes",DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+#EXTINF:0 group-title="Deportes",TyC Play
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8 
+
+########## Musica ##########
+
+#EXTINF:-1 group-title="Musica",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 group-title="Musica",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 group-title="Musica",MTV
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/index.m3u8?srregio
+
+#EXTINF:-1 group-title="Musica",MTV Dance
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/228/index.m3u8
+
+#EXTINF:-1 group-title="Musica",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica",Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica",Tele Musica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8 
+
+########## PELICULAS ##########
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",Veronica (2017)
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Veronica.2017.Castellano.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_SX300.jpg",La noche del demonio: La ultima llave (2018)
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Insidious.The.Last.Key.2018.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMjA3MDQ4MDI1M15BMl5BanBnXkFtZTgwMDYxMjcxNDM@._V1_SX300.jpg",¿Quién @#*%$ es papá?
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Father.Figures.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/01/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",Coco
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Coco.2017.OK.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2017/11/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_SX300.jpg",50 sombras más oscuras
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Fifty.Shades.Darker.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2017/08/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SX300.jpg",Guardianes de la Galaxia 2
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Guardians.of.the.Galaxy.2.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BNWQ5NDYxNjYtODc4Ni00NmIyLWEyMGYtNGM0N2ZmYjgzYTliXkEyXkFqcGdeQXVyNTg0MzU3NjM@._V1_SX300.jpg",Take Your Pills
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Take.Your.Pills.2018.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2016/08/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_SX300.jpg",Yo antes de ti
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Me.Before.You.2016.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/01/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",Thor 3: Ragnarok
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Thor.Ragnarok.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/02/MV5BOTIwMDI0NjQ4OF5BMl5BanBnXkFtZTgwNjU0MzAyNDM@._V1_SX300.jpg",Olé!: El viaje de Ferdinand
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Ferdinand.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUyNDkwNzYxMV5BMl5BanBnXkFtZTgwMjA4OTYxMzI@._V1_SX300.jpg",In Search of Fellini
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/In.Search.of.Fellini.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMmIwODI0NzAtNmI5YS00NTZkLWJjZGQtYzZhNTZmNDNhNGU2XkEyXkFqcGdeQXVyMTgyNDk1OTY@._V1_SX300.jpg",Dear Dictator
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Dear.Dictator.2018.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BOWQ4YThhMDktMTdiNS00ZjcwLTkxYWMtY2JjMTE5NmJkYTQ1XkEyXkFqcGdeQXVyNjY5MDg5MjQ@._V1_SX300.jpg",Hipersomnia
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Hipersomnia.2016.Latino.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BYjQ0ZWJkYjMtYjJmYS00MjJiLTg3NTYtMmIzN2E2Y2YwZmUyXkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_SX300.jpg",El gran showman
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Greatest.Showman.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTg1OTcxNjU1MV5BMl5BanBnXkFtZTgwMzcwMTQ3MzI@._V1_SX300.jpg",Una razón para vivir
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Breathe.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BNDk0ODY0N2ItODYxNi00ZjVmLThmYWItN2FlYWNiMTY5MmJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR006751000_AL_1.jpg",Paradoja
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Paradox.2018.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUxNjI4MDU2OF5BMl5BanBnXkFtZTgwMDAzMzA1NDM@._V1_SX300.jpg",Game Over, Man!
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Game.Over.Man.2018.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTkyNDQ1MDc5OV5BMl5BanBnXkFtZTgwOTcyNzI2MzI@._V1_SX300.jpg",Jumanji: Bienvenidos a la jungla
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Jumanji.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",Star Wars: Episodio VIII – Los últimos Jedi
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Star.Wars.The.Last.Jedi.2017.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/02/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",Liga de la Justicia
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Justice%20League%20(2017)%20720%20Sub.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BNGQ1YzE0ZDctNjkxOC00M2IxLWJlOWYtMzY2MDM5ODk2NDg1XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",No dejes de mirar
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Keep.Watching.2018.mp4
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/01/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",La forma del agua
+https://storage.googleapis.com/new-project-189619.appspot.com/shapagua.mp4
