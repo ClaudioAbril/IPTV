@@ -484,7 +484,7 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
 #EXTINF:450 group-title="Premium",HBO
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
 
-#EXTINF:-1 group-title="Premium", HBO Family
+#EXTINF:-1 group-title="Premium",HBO Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 
 #EXTINF:456 group-title="Premium",HBO Plus
@@ -646,71 +646,3 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica",Tele Musica
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8 
-
-########## PELICULAS ##########
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",Veronica (2017)
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Veronica.2017.Castellano.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_SX300.jpg",La noche del demonio: La ultima llave (2018)
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Insidious.The.Last.Key.2018.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMjA3MDQ4MDI1M15BMl5BanBnXkFtZTgwMDYxMjcxNDM@._V1_SX300.jpg",¿Quién @#*%$ es papá?
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Father.Figures.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/01/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",Coco
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Coco.2017.OK.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2017/11/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_SX300.jpg",50 sombras más oscuras
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Fifty.Shades.Darker.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2017/08/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SX300.jpg",Guardianes de la Galaxia 2
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Guardians.of.the.Galaxy.2.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BNWQ5NDYxNjYtODc4Ni00NmIyLWEyMGYtNGM0N2ZmYjgzYTliXkEyXkFqcGdeQXVyNTg0MzU3NjM@._V1_SX300.jpg",Take Your Pills
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Take.Your.Pills.2018.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2016/08/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_SX300.jpg",Yo antes de ti
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Me.Before.You.2016.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/01/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",Thor 3: Ragnarok
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Thor.Ragnarok.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/02/MV5BOTIwMDI0NjQ4OF5BMl5BanBnXkFtZTgwNjU0MzAyNDM@._V1_SX300.jpg",Olé!: El viaje de Ferdinand
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Ferdinand.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUyNDkwNzYxMV5BMl5BanBnXkFtZTgwMjA4OTYxMzI@._V1_SX300.jpg",In Search of Fellini
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/In.Search.of.Fellini.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMmIwODI0NzAtNmI5YS00NTZkLWJjZGQtYzZhNTZmNDNhNGU2XkEyXkFqcGdeQXVyMTgyNDk1OTY@._V1_SX300.jpg",Dear Dictator
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Dear.Dictator.2018.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BOWQ4YThhMDktMTdiNS00ZjcwLTkxYWMtY2JjMTE5NmJkYTQ1XkEyXkFqcGdeQXVyNjY5MDg5MjQ@._V1_SX300.jpg",Hipersomnia
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Hipersomnia.2016.Latino.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BYjQ0ZWJkYjMtYjJmYS00MjJiLTg3NTYtMmIzN2E2Y2YwZmUyXkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_SX300.jpg",El gran showman
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Greatest.Showman.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTg1OTcxNjU1MV5BMl5BanBnXkFtZTgwMzcwMTQ3MzI@._V1_SX300.jpg",Una razón para vivir
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Breathe.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BNDk0ODY0N2ItODYxNi00ZjVmLThmYWItN2FlYWNiMTY5MmJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR006751000_AL_1.jpg",Paradoja
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Paradox.2018.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTUxNjI4MDU2OF5BMl5BanBnXkFtZTgwMDAzMzA1NDM@._V1_SX300.jpg",Game Over, Man!
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Game.Over.Man.2018.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMTkyNDQ1MDc5OV5BMl5BanBnXkFtZTgwOTcyNzI2MzI@._V1_SX300.jpg",Jumanji: Bienvenidos a la jungla
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Jumanji.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",Star Wars: Episodio VIII – Los últimos Jedi
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Star.Wars.The.Last.Jedi.2017.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/02/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",Liga de la Justicia
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Justice%20League%20(2017)%20720%20Sub.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/03/MV5BNGQ1YzE0ZDctNjkxOC00M2IxLWJlOWYtMzY2MDM5ODk2NDg1XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",No dejes de mirar
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Keep.Watching.2018.mp4
-
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.cuevana2.tv/wp-content/uploads/2018/01/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",La forma del agua
-https://storage.googleapis.com/new-project-189619.appspot.com/shapagua.mp4
